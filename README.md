@@ -1,4 +1,5 @@
 This project leverages deep learning, specifically the UNet3+ architecture, to estimate high-resolution solar energy potential maps (ASM) using LiDAR-derived digital surface models (DSMs). The approach provides an efficient and scalable alternative to traditional physical models like ArcGIS Pro’s Area Solar Radiation (ASR) model, which is accurate but computationally intensive. The proposed method aims to enhance renewable energy planning by facilitating quicker and more precise identification of rooftops suitable for solar panel installation in urban areas.
+
 Dataset
 Input:
 LiDAR DSMs (0.5 m resolution) from AHN3 to capture urban topographical features.
