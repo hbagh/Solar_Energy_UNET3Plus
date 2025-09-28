@@ -106,7 +106,7 @@ Supplementary datasets used in the study are available on [Zenodo](https://zenod
 
 ## Result: 
 <div align="center">
-<img src="./Figures/Result1.png" width="50%" alt="Solar Panel Suitability Map showing building rooftops color-coded by solar energy potential">
+<img src="./Figures/Result1.png" width="75%" alt="Solar Panel Suitability Map showing building rooftops color-coded by solar energy potential">
 <br>
 <strong>Figure 1:</strong> Building suitability map for solar panel installation. Colors represent annual average solar energy potential (kWh/m²). The Map of building suitability for solar panel installation is generated based on the annual average solar energy potential received by rooftops, produced by the U-Net 3+ model
 </div>
